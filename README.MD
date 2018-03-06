@@ -1,4 +1,4 @@
-# SOLIDITY-ROSE
+# SOUL-ROSE
 
 rose-only in solidity.
 
